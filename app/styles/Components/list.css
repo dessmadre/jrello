@@ -1,0 +1,7 @@
+.list__btn {
+  background-color: rgba(229, 231, 235, 0.7);
+}
+
+.height-min {
+  height: min-content;
+}
